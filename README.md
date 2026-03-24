@@ -6,6 +6,10 @@ To run locally, from the project root directory:
 
 pip install -r requirements.txt
 
+Create folder 'data' with file 'data_xyz_foods.csv' in it.
+
+Run Jupyter Notebook to create artifacts.
+
 streamlit run app/streamlit_app.py
 
 The workflow has two main parts:
