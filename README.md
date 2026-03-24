@@ -35,6 +35,6 @@ retail_forecast_project/
 ├── notebook/
 │   └── retail_forecast.ipynb
 ├── data/
-│   └── sales.csv
+│   └── data_xyz_foods.csv
 ├── requirements.txt
 └── README.md
