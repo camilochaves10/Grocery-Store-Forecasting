@@ -2,8 +2,9 @@
 
 This project forecasts retail product demand using **PySpark + XGBoost** and presents the results in an interactive **Streamlit dashboard**.
 
-To run, from the project root directory type:
+To run locally, from the project root directory:
 
+pip install -r requirements.txt
 streamlit run app/streamlit_app.py
 
 The workflow has two main parts:
